@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 '''Task 12's module.
 '''
@@ -29,4 +28,3 @@ def run():
 
 if __name__ == '__main__':
     run()
-
